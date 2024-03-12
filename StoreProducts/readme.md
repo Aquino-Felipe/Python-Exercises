@@ -1,4 +1,5 @@
 # Python-Exercises
+# StoreProducts (loops)
 
 The provided code is a simple program that tracks products entered by the user, calculates the total price, counts products over $1000, and identifies the cheapest product. Here's a breakdown of its functionality:
 
